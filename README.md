@@ -1,20 +1,21 @@
 # CODSOFT
 
-Welcome to my Data Science Internship Portfolio! In this repository, you will find a collection of projects that I have completed during my internship at CodSoft. Each project showcases my skills in data analysis, machine learning, and problem-solving. Below is a summary of the projects:
+This repository contains the Data Science projects I completed as part of my internship at **CodSoft**. Throughout this internship, I worked with real-world datasets to apply data cleaning, exploratory data analysis, feature engineering and machine learning techniques to solve classification and regression problems.
 
-## PROJECT
+## Projects
 
-1. **Titanic Survival Prediction**
-   Description: This project focuses on analyzing the Titanic dataset to predict passenger survival. It involves data preprocessing, exploratory data analysis, and building multiple machine learning models to predict survival probabilities.
+### 1. Titanic Survival Prediction
+Built a classification model to predict whether a passenger survived the Titanic disaster, based on attributes such as age, gender, ticket class, fare and family details. Compared multiple algorithms including Logistic Regression, Decision Tree, KNN, SVM, Random Forest and Gradient Boosting to find the best performing model.
 
-2. **Movie Rating Prediction with Python**
-   Description: In this project, I built a movie rating prediction system using Python. The project includes data collection, preprocessing, exploratory data analysis, and the development of regression models to predict movie ratings.
+### 2. Movie Rating Prediction with Python
+Developed a regression model to estimate IMDb ratings of Indian movies using features like genre, director, actors, votes and duration. Performed detailed EDA to understand which factors influence ratings the most, and compared Linear Regression, Random Forest and Gradient Boosting models.
 
-3. **Iris Flower Classification**
-   Description: The Iris Flower Classification project is a classic machine learning task. It involves using the Iris dataset to classify iris flowers into different species based on their sepal and petal measurements.
+### 3. Iris Flower Classification
+Trained multiple classification models to identify the species of an Iris flower (Setosa, Versicolor, Virginica) using its sepal and petal measurements. This project helped me understand the fundamentals of supervised classification and model evaluation.
 
-## Connect with Me
 
-Feel free to explore each project folder for the complete code, dataset and detailed explanation.
+## Notes
+
+Each project folder contains the full code, the dataset used and a brief explanation of the approach and results.
 
 #codsoft #internship #datascience #machinelearning
